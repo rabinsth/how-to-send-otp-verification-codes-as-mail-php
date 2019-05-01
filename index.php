@@ -104,5 +104,5 @@ MSG;
 
 // pass your recipient's email
 $vc=new VerificationCode('johndoe@xxxmail.com'); 
-$vc->sendMail();
+$vc->sendMail(); // MAIL SENT SUCCESSFULLY
 
